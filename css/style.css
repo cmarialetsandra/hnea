@@ -1323,6 +1323,10 @@ Artest Page
 	padding: 100px 33px;
 }
 
+.just-a-line {
+	padding: 10px 33px;
+}
+
 .similar-songs-section h3 {
 	margin-bottom: 70px;
 	padding-left: 6px;
