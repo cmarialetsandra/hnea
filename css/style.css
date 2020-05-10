@@ -72,6 +72,11 @@ p {
 	text-align: justify;
 }
 
+.parrafo2 {
+	color: black;
+	text-align: justify;
+}
+
 img {
 	max-width: 100%;
 }
@@ -1122,12 +1127,6 @@ Artest Page
 	padding: 80px 121px 100px 81px;
 	border-radius: 24px;
 	background: #0a183d;
-}
-
-.player-box {
-	padding: 80px 121px 100px 81px;
-	border-radius: 24px;
-	background: white;
 }
 
 .player-box {
