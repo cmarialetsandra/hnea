@@ -89,6 +89,17 @@ a:focus {
 	outline: none;
 }
 
+.mya{
+	text-decoration: none;
+	outline: none;
+	color: #0a183d;
+}
+
+.mya:hover{
+	outline: none;
+	color: #6a7080;
+}
+
 ul,
 ol {
 	padding: 0;
